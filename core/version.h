@@ -72,9 +72,26 @@
 
 // Same as above, but prepended with Godot's name and a cosmetic "v" for "version".
 // Example: "Godot v3.1.4.stable.official.mono"
-#define VERSION_FULL_NAME VERSION_NAME " v" VERSION_FULL_BUILD
+#define VERSION_FULL_NAME "Godot v" VERSION_FULL_BUILD
 
 // Git commit hash, generated at build time in `core/version_hash.gen.cpp`.
 extern const char *const VERSION_HASH;
+
+// This is were the TurboSpeedGE Version stuff goes
+#define TSGE_VERSION_BRANCH _MKSTR(TSGE_VERSION_MAJOR) "." _MKSTR(TSGE_VERSION_MINOR)
+
+#if TSGE_VERSION_MINOR
+#define TSGE_VERSION_NUMBER TSGE_VERSION_BRANCH "." _MKSTR(TSGE_VERSION_PATCH)
+#else
+#define TSGE_VERSION_NUMBER TSGE_VERSION_BRANCH
+#endif
+
+#define TSGE_VERSION_HEX 0x10000 * TSGE_VERSION_MAJOR + 0x100 * TSGE_VERSION_MINOR + TSGE_VERSION_MINOR
+
+#define TSGE_VERSION_FULL_CONFIG TSGE_VERSION_NUMBER "." TSGE_VERSION_STATUS VERSION_MODULE_CONFIG
+
+#define TSGE_VERSION_FULL_BUILD TSGE_VERSION_FULL_CONFIG "." TSGE_VERSION_BUILD
+
+#define TSGE_VERSION_FULL_NAME VERSION_NAME " v" TSGE_VERSION_FULL_BUILD
 
 #endif // VERSION_H

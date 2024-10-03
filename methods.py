@@ -16,7 +16,7 @@ from SCons.Variables.BoolVariable import _text2bool
 from pathlib import Path
 from os.path import normpath, basename
 
-# Get the "Godot" folder name ahead of time
+# Get the "TurboSpeedGE" folder name ahead of time
 base_folder_path = str(os.path.abspath(Path(__file__).parent)) + "/"
 base_folder_only = os.path.basename(os.path.normpath(base_folder_path))
 # Listing all the folders we have converted
@@ -155,7 +155,7 @@ def add_module_version_string(self, s):
 
 
 def get_version_info(module_version_string="", silent=False):
-    build_name = "custom_build"
+    build_name = "fork"
     if os.getenv("BUILD_NAME") != None:
         build_name = str(os.getenv("BUILD_NAME"))
         if not silent:
@@ -175,6 +175,11 @@ def get_version_info(module_version_string="", silent=False):
         "year": int(version.year),
         "website": str(version.website),
         "docs_branch": str(version.docs),
+        "tsge_major": str(version.tsge_major),
+        "tsge_minor": str(version.tsge_minor),
+        "tsge_patch": str(version.tsge_patch),
+        "tsge_status": str(version.tsge_status),
+        "tsge_build": str(version.tsge_build),
     }
 
     # For dev snapshots (alpha, beta, RC, etc.) we do not commit status change to Git,
@@ -237,6 +242,9 @@ def generate_version_header(module_version_string=""):
         """/* THIS FILE IS GENERATED DO NOT EDIT */
 #ifndef VERSION_GENERATED_GEN_H
 #define VERSION_GENERATED_GEN_H
+
+// This is old godot 3.6 generated code from godot...
+// This short name and name will remain...
 #define VERSION_SHORT_NAME "{short_name}"
 #define VERSION_NAME "{name}"
 #define VERSION_MAJOR {major}
@@ -249,6 +257,16 @@ def generate_version_header(module_version_string=""):
 #define VERSION_WEBSITE "{website}"
 #define VERSION_DOCS_BRANCH "{docs_branch}"
 #define VERSION_DOCS_URL "https://docs.godotengine.org/en/" VERSION_DOCS_BRANCH
+
+// This section is for the actual version of TurboSpeedGE
+// The actual version number will be reflect here not the
+// VERSION_MAJOR, VERSION_MINOR, or VERSION_PATCH
+#define TSGE_VERSION_MAJOR {tsge_major}
+#define TSGE_VERSION_MINOR {tsge_minor}
+#define TSGE_VERSION_PATCH {tsge_patch}
+#define TSGE_VERSION_STATUS "{tsge_status}"
+#define TSGE_VERSION_BUILD "{tsge_build}"
+
 #endif // VERSION_GENERATED_GEN_H
 """.format(
             **version_info
@@ -890,7 +908,7 @@ def generate_vs_project(env, num_jobs):
                     for platform in ModuleConfigs.PLATFORMS
                 ]
                 self.arg_dict["runfile"] += [
-                    f'bin\\godot.windows.{config_id}.{plat_id}{f".{name}" if name else ""}.exe'
+                    f'bin\\turbospeedge.windows.{config_id}.{plat_id}{f".{name}" if name else ""}.exe'
                     for config_id in ModuleConfigs.CONFIGURATION_IDS
                     for plat_id in ModuleConfigs.PLATFORM_IDS
                 ]

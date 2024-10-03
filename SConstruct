@@ -30,6 +30,8 @@ platform_apis = []
 
 time_at_start = time.time()
 
+project_name = "TurboSpeedGE"
+
 for x in sorted(glob.glob("platform/*")):
     if not os.path.isdir(x) or not os.path.exists(x + "/detect.py"):
         continue
@@ -116,15 +118,18 @@ if profile:
 
 opts = Variables(customs, ARGUMENTS)
 
+
+
+
 # Target build options
 opts.Add("p", "Platform (alias for 'platform')", "")
 opts.Add("platform", "Target platform (%s)" % ("|".join(platform_list),), "")
-opts.Add(BoolVariable("tools", "Build the tools (a.k.a. the Godot editor)", True))
+opts.Add(BoolVariable("tools", "Build the tools (a.k.a. the "+project_name+" editor)", True))
 opts.Add(EnumVariable("target", "Compilation target", "debug", ("debug", "release_debug", "release")))
 opts.Add("arch", "Platform-dependent architecture (arm/arm64/x86/x64/mips/...)", "")
 opts.Add(EnumVariable("bits", "Target platform bits", "default", ("default", "32", "64")))
 opts.Add(EnumVariable("optimize", "Optimization type", "speed", ("speed", "size", "none")))
-opts.Add(BoolVariable("production", "Set defaults to build Godot for use in production", False))
+opts.Add(BoolVariable("production", "Set defaults to build "+project_name+" for use in production", False))
 opts.Add(EnumVariable("lto", "Link-time optimization (production builds)", "none", ("none", "auto", "thin", "full")))
 
 # Components
@@ -239,24 +244,24 @@ else:
 
 if selected_platform == "macos":
     # Alias for forward compatibility.
-    print('Platform "macos" is still called "osx" in Godot 3.x. Building for platform "osx".')
+    print('Platform "macos" is still called "osx" in '+project_name+' 1.x. Building for platform "osx".')
     selected_platform = "osx"
 
 if selected_platform == "ios":
     # Alias for forward compatibility.
-    print('Platform "ios" is still called "iphone" in Godot 3.x. Building for platform "iphone".')
+    print('Platform "ios" is still called "iphone" in '+project_name+' 3.x. Building for platform "iphone".')
     selected_platform = "iphone"
 
 if selected_platform in ["linux", "bsd", "linuxbsd"]:
     if selected_platform == "linuxbsd":
         # Alias for forward compatibility.
-        print('Platform "linuxbsd" is still called "x11" in Godot 3.x. Building for platform "x11".')
+        print('Platform "linuxbsd" is still called "x11" in '+project_name+' 1.x. Building for platform "x11".')
     # Alias for convenience.
     selected_platform = "x11"
 
 if selected_platform == "web":
     # Alias for forward compatibility.
-    print('Platform "web" is still called "javascript" in Godot 3.x. Building for platform "javascript".')
+    print('Platform "web" is still called "javascript" in '+project_name+' 1.x. Building for platform "javascript".')
     selected_platform = "javascript"
 
 # Make sure to update this to the found, valid platform as it's used through the buildsystem as the reference.
@@ -493,7 +498,7 @@ if selected_platform in platform_list:
         print("       Please adjust your scripts accordingly.")
         Exit(255)
 
-    # Disable exception handling. Godot doesn't use exceptions anywhere, and this
+    # Disable exception handling. TurboSpeedGE doesn't use exceptions anywhere, and this
     # saves around 20% of binary size and very significant build time (GH-80513).
     if env["disable_exceptions"]:
         if env.msvc:

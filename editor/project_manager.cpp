@@ -2365,6 +2365,7 @@ void ProjectManager::_bind_methods() {
 	ClassDB::bind_method("_erase_missing_projects_confirm", &ProjectManager::_erase_missing_projects_confirm);
 	ClassDB::bind_method("_show_about", &ProjectManager::_show_about);
 	ClassDB::bind_method("_version_button_pressed", &ProjectManager::_version_button_pressed);
+	ClassDB::bind_method("_tsge_version_button_pressed", &ProjectManager::_tsge_version_button_pressed);
 	ClassDB::bind_method("_language_selected", &ProjectManager::_language_selected);
 	ClassDB::bind_method("_restart_confirm", &ProjectManager::_restart_confirm);
 	ClassDB::bind_method("_on_order_option_changed", &ProjectManager::_on_order_option_changed);
@@ -2388,6 +2389,10 @@ void ProjectManager::_open_asset_library() {
 
 void ProjectManager::_version_button_pressed() {
 	OS::get_singleton()->set_clipboard(version_btn->get_text());
+}
+
+void ProjectManager::_tsge_version_button_pressed() {
+	OS::get_singleton()->set_clipboard(tsge_version_btn->get_text());
 }
 
 ProjectManager::ProjectManager() {
@@ -2620,22 +2625,34 @@ ProjectManager::ProjectManager() {
 	// A VBoxContainer that contains a dummy Control node to adjust the LinkButton's vertical position.
 	VBoxContainer *spacer_vb = memnew(VBoxContainer);
 	settings_hb->add_child(spacer_vb);
-
+	/*
 	Control *v_spacer = memnew(Control);
 	spacer_vb->add_child(v_spacer);
+	*/
 
+	// TurboSpeedGE Version
+	tsge_version_btn = memnew(LinkButton);
+	tsge_version_btn->set_text(TSGE_VERSION_FULL_NAME);
+	tsge_version_btn->set_self_modulate(Color(1, 1, 1, 0.6));
+	tsge_version_btn->set_underline_mode(LinkButton::UNDERLINE_MODE_ON_HOVER);
+	tsge_version_btn->set_tooltip(TTR("Click to copy."));
+	tsge_version_btn->connect("pressed", this, "_tsge_version_button_pressed");
+	spacer_vb->add_child(tsge_version_btn);
+
+	// Gotdot Version
 	version_btn = memnew(LinkButton);
 	String hash = String(VERSION_HASH);
 	if (hash.length() != 0) {
 		hash = " " + vformat("[%s]", hash.left(9));
 	}
-	version_btn->set_text("v" VERSION_FULL_BUILD + hash);
+	version_btn->set_text(VERSION_FULL_NAME + hash);
 	// Fade the version label to be less prominent, but still readable.
 	version_btn->set_self_modulate(Color(1, 1, 1, 0.6));
 	version_btn->set_underline_mode(LinkButton::UNDERLINE_MODE_ON_HOVER);
 	version_btn->set_tooltip(TTR("Click to copy."));
 	version_btn->connect("pressed", this, "_version_button_pressed");
 	spacer_vb->add_child(version_btn);
+
 
 	// Add a small horizontal spacer between the version and language buttons
 	// to distinguish them.
@@ -2677,7 +2694,7 @@ ProjectManager::ProjectManager() {
 	settings_hb->add_child(language_btn);
 	language_btn->connect("item_selected", this, "_language_selected");
 
-	center_box->add_child(settings_hb);
+	vb->add_child(settings_hb);
 	settings_hb->set_anchors_and_margins_preset(Control::PRESET_TOP_RIGHT);
 
 	//////////////////////////////////////////////////////////////

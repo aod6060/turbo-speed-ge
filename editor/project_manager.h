@@ -82,6 +82,8 @@ class ProjectManager : public Control {
 	ProjectList *_project_list;
 
 	LinkButton *version_btn;
+	LinkButton *tsge_version_btn;
+
 	OptionButton *language_btn;
 	Control *gui_base;
 
@@ -122,6 +124,7 @@ class ProjectManager : public Control {
 	void _scan_multiple_folders(PoolStringArray p_files);
 
 	void _version_button_pressed();
+	void _tsge_version_button_pressed();
 	void _on_order_option_changed();
 	void _on_filter_option_changed();
 	void _on_tab_changed(int p_tab);
