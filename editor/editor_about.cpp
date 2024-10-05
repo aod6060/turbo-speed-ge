@@ -63,8 +63,13 @@ void EditorAbout::_version_button_pressed() {
 	OS::get_singleton()->set_clipboard(version_btn->get_meta(META_TEXT_TO_COPY));
 }
 
+void EditorAbout::_tsge_version_button_pressed() {
+	OS::get_singleton()->set_clipboard(tsge_version_btn->get_text());
+}
+
 void EditorAbout::_bind_methods() {
 	ClassDB::bind_method("_version_button_pressed", &EditorAbout::_version_button_pressed);
+	ClassDB::bind_method("_tsge_version_button_pressed", &EditorAbout::_tsge_version_button_pressed);
 	ClassDB::bind_method(D_METHOD("_license_tree_selected"), &EditorAbout::_license_tree_selected);
 }
 
@@ -131,7 +136,15 @@ EditorAbout::EditorAbout() {
 	// Add a dummy control node for spacing.
 	Control *v_spacer = memnew(Control);
 	version_info_vbc->add_child(v_spacer);
-
+	
+	
+	tsge_version_btn = memnew(LinkButton);
+	tsge_version_btn->set_text(TSGE_VERSION_FULL_NAME);
+	tsge_version_btn->set_underline_mode(LinkButton::UNDERLINE_MODE_ON_HOVER);
+	tsge_version_btn->set_tooltip(TTR("Click to copy."));
+	tsge_version_btn->connect("pressed", this, "_tsge_version_button_pressed");
+	version_info_vbc->add_child(tsge_version_btn);
+	
 	version_btn = memnew(LinkButton);
 	String hash = String(VERSION_HASH);
 	if (hash.length() != 0) {

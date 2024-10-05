@@ -56,8 +56,10 @@ private:
 	static const String META_TEXT_TO_COPY;
 	void _license_tree_selected();
 	void _version_button_pressed();
+	void _tsge_version_button_pressed();
 	ScrollContainer *_populate_list(const String &p_name, const List<String> &p_sections, const char *const *const p_src[], const int p_flag_single_column = 0);
 
+	LinkButton *tsge_version_btn;
 	LinkButton *version_btn;
 	Tree *_tpl_tree;
 	RichTextLabel *_license_text;

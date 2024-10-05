@@ -5700,7 +5700,8 @@ void EditorNode::_feature_profile_changed() {
 		main_editor_buttons[EDITOR_SCRIPT]->set_visible(true);
 		
 		if (AssetLibraryEditorPlugin::is_available()) {
-			main_editor_buttons[EDITOR_ASSETLIB]->set_visible(false);
+			// This should be visible now after compiling...
+			main_editor_buttons[EDITOR_ASSETLIB]->set_visible(true);
 		}
 	}
 

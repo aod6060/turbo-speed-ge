@@ -42,6 +42,11 @@ Upstream-Contact: Rémi Verschelde <contact@godotengine.org>
 Source: https://github.com/godotengine/godot
 
 Files: *
+Comment: TurboSpeedGE
+Copyright: 2024-Present, TurboSpeedGE Engine
+License: Expat
+
+Files: *
 Comment: Godot Engine
 Copyright: 2014-present, Godot Engine contributors.
  2007-2014, Juan Linietsky, Ariel Manzur.
