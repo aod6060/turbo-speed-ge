@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon_a_r_v_r.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.26362494"
+     inkscape:cx="885.72802"
+     inkscape:cy="859.17515"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid801" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="443.81233"
+       y="1441.4418"
+       width="1156.9467"
+       height="440.01906"
+       id="rect7353" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       d="m 230.83614,33.119969 76.27629,-1.003635 -1.00362,75.272656 74.26902,1.00364 1.00364,62.22539 -76.2763,-1.00364 2.00728,99.35991 76.27628,-35.12724 38.13816,50.18178 -156.56714,79.28718 -149.54168,-95.34535 44.15996,-46.16723 75.27266,44.15997 -1.00364,-94.34174 -74.26902,-2.00728 v -64.23266 l 73.26538,2.00727 z"
+       id="path7297"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.19828685,0,0,0.71463372,68.363478,-662.09739)"
+       id="text7351"
+       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
+         x="443.8125"
+         y="1610.2414"
+         id="tspan7416">X                 R</tspan></text>
+  </g>
+</svg>
