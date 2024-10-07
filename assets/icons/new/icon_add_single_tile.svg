@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="icon_action_copy.svg"
+   sodipodi:docname="icon_add_single_tile.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.26362494"
-     inkscape:cx="529.16086"
+     inkscape:cx="586.05988"
      inkscape:cy="866.7617"
      inkscape:window-width="1920"
      inkscape:window-height="1058"
@@ -50,17 +50,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <g
-       id="g522"
-       transform="translate(38.138147,41.149053)">
-      <path
-         id="rect353"
-         style="fill:#505050;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-         d="M 10.036597,23.083862 V 320.15979 H 43.156539 V 53.192619 H 370.34174 V 23.083862 Z" />
-      <path
-         id="rect358"
-         style="fill:#505050;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-         d="M 62.225142,73.265295 V 370.34122 H 422.5308 V 73.265295 Z M 95.291858,106.33149 H 392.47527 V 339.28265 H 95.291858 Z" />
-    </g>
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       id="rect5217"
+       width="54.196312"
+       height="487.76682"
+       x="220.79979"
+       y="11.039989" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       id="rect5219"
+       width="487.76682"
+       height="57.207218"
+       x="9.0327196"
+       y="220.79979" />
   </g>
 </svg>

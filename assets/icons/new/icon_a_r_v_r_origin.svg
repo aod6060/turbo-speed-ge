@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.26362494"
-     inkscape:cx="885.72802"
-     inkscape:cy="859.17515"
+     inkscape:cx="529.16086"
+     inkscape:cy="862.96843"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -57,28 +57,15 @@
        style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
          x="443.8125"
          y="1610.2414"
-         id="tspan11851">X                 R</tspan></text>
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+         id="tspan363">X                 R</tspan></text>
+    <path
        id="rect9128"
-       width="86.312645"
-       height="307.11246"
-       x="220.79979"
-       y="30.10906" />
-    <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:2.97322;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 220.78057,30.089887 V 136.63958 h 86.35134 V 30.089887 Z m 0,197.459743 v 101.66195 h 86.35134 V 227.54963 Z" />
+    <path
        id="rect9130"
-       width="335.21423"
-       height="79.287209"
-       x="96.349007"
-       y="141.51259" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       id="rect9756"
-       width="87.316277"
-       height="84.305374"
-       x="219.79616"
-       y="141.5126" />
+       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 96.349158 141.51281 L 96.349158 220.79996 L 219.7964 220.79996 L 219.7964 141.51281 L 96.349158 141.51281 z M 307.11252 141.51281 L 307.11252 220.79996 L 431.56332 220.79996 L 431.56332 141.51281 L 307.11252 141.51281 z " />
     <ellipse
        style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
        id="path10902"
