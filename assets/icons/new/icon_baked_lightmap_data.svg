@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512mm"
+   height="512mm"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon_baked_lightmap_data.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.18641098"
+     inkscape:cx="-321.86945"
+     inkscape:cy="1402.8144"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid801"
+       empspacing="9"
+       originx="511.99999"
+       originy="511.99999" />
+    <sodipodi:guide
+       position="0,511.99999"
+       orientation="0,1935.1181"
+       id="guide66427"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="511.99999,511.99999"
+       orientation="1935.1181,0"
+       id="guide66429"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="511.99999,0"
+       orientation="0,-1935.1181"
+       id="guide66431"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1935.1181,0"
+       id="guide66433"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6455"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#505050;stop-opacity:1;"
+         offset="0"
+         id="stop6453" />
+    </linearGradient>
+    <rect
+       x="37.932678"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
+       id="rect75351" />
+    <rect
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
+       height="1395.9226"
+       id="rect57141" />
+    <rect
+       x="443.81232"
+       y="1441.4418"
+       width="1156.9467"
+       height="440.01907"
+       id="rect7353" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect44215"
+       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:13.6707;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 269.6776 208.89991 L 269.6776 302.488 L 435.57651 302.488 L 435.57651 432.73793 L 269.6776 432.73793 L 269.6776 475.22939 L 466.71311 475.22939 L 466.71311 208.89991 L 269.6776 208.89991 z M 286.00011 226.38722 L 332.8386 226.38722 L 332.8386 270.38711 L 286.00011 270.38711 L 286.00011 226.38722 z M 403.80636 226.38722 L 450.64536 226.38722 L 450.64536 270.38711 L 403.80636 270.38711 L 403.80636 226.38722 z " />
+    <rect
+       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:11.5554;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect44321"
+       width="177.60591"
+       height="52.70269"
+       x="270.29382"
+       y="36.100266" />
+    <path
+       id="rect44380"
+       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:14.7453;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 271.88863,341.43705 v 22.54537 h 46.67434 v -22.54537 z" />
+    <path
+       id="rect48128"
+       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:15.2019;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 36.504232 33.665645 L 36.504232 92.257935 L 107.87094 92.257935 L 107.87094 33.665645 L 36.504232 33.665645 z M 144.77411 33.665645 L 144.77411 92.257935 L 223.23754 92.257935 L 223.23754 33.665645 L 144.77411 33.665645 z M 36.504232 129.16111 L 36.504232 193.03215 L 107.87094 193.03215 L 107.87094 129.16111 L 36.504232 129.16111 z M 144.77411 129.16111 L 144.77411 193.03215 L 223.23754 193.03215 L 223.23754 129.16111 L 144.77411 129.16111 z M 36.504232 231.35487 L 36.504232 300.90308 L 107.87094 300.90308 L 107.87094 231.35487 L 36.504232 231.35487 z M 144.77411 231.35487 L 144.77411 300.90308 L 223.23754 300.90308 L 223.23754 231.35487 L 144.77411 231.35487 z M 36.504232 337.80625 L 36.504232 398.8387 L 107.87094 398.8387 L 107.87094 337.80625 L 36.504232 337.80625 z M 144.77411 337.80625 L 144.77411 398.8387 L 223.23754 398.8387 L 223.23754 337.80625 L 144.77411 337.80625 z M 36.504232 432.90329 L 36.504232 478.72168 L 107.87094 478.72168 L 107.87094 432.90329 L 36.504232 432.90329 z M 144.77411 432.90329 L 144.77411 478.72168 L 223.23754 478.72168 L 223.23754 432.90329 L 144.77411 432.90329 z " />
+  </g>
+</svg>

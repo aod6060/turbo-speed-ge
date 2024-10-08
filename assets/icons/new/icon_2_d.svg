@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="885.72802"
-     inkscape:cy="859.17515"
+     inkscape:zoom="33.743992"
+     inkscape:cx="8.7867493"
+     inkscape:cy="6.8604805"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,7 +35,9 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -44,8 +46,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#909090;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 138.50169,10.036354 71.258114,117.42534 115.41807,116.42171 v 290.05062 l 286.0361,2.00729 1.00364,47.17087 95.34535,-63.22904 -95.34535,-53.19268 -1.00364,32.11634 -254.9234,-3.0109 v -251.9125 h 47.17087 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0915519;stroke-linejoin:bevel;stroke-opacity:0"
+       d="m 3.4713783,1.3193906 -2.085172,3.1996019 1.369367,-0.0299 v 8.6419135 l 8.8697637,0.05981 0.03112,1.405432 2.956588,-1.883877 -2.956588,-1.58485 -0.03112,0.956891 -7.9049827,-0.08971 V 4.4890955 h 1.462733 z"
        id="path859" />
   </g>
 </svg>
