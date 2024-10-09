@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon_button_group.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="47.721211"
+     inkscape:cx="6.5694058"
+     inkscape:cy="7.2609222"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid801"
+       empspacing="9"
+       originx="511.99999"
+       originy="511.99999" />
+    <sodipodi:guide
+       position="0,4.2333374"
+       orientation="0,1935.1181"
+       id="guide66427"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="512.00001,4.2333374"
+       orientation="1935.1181,0"
+       id="guide66429"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="512.00001,-507.76667"
+       orientation="0,-1935.1181"
+       id="guide66431"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-507.76667"
+       orientation="-1935.1181,0"
+       id="guide66433"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-919.40122 : 203.44456 : 1"
+       inkscape:vp_y="0 : 3765.6692 : 0"
+       inkscape:vp_z="2943.1431 : 164.14238 : 1"
+       inkscape:persp3d-origin="783.95124 : 11.630277 : 1"
+       id="perspective66631" />
+    <linearGradient
+       id="linearGradient6455"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#505050;stop-opacity:1;"
+         offset="0"
+         id="stop6453" />
+    </linearGradient>
+    <rect
+       x="37.932678"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
+       id="rect75351" />
+    <rect
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
+       height="1395.9226"
+       id="rect57141" />
+    <rect
+       x="443.81232"
+       y="1441.4418"
+       width="1156.9467"
+       height="440.01907"
+       id="rect7353" />
+    <filter
+       inkscape:label="Matte Ridge"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Soft pastel ridge"
+       style="color-interpolation-filters:sRGB"
+       id="filter56459"
+       x="-0.038444374"
+       y="-0.038197178"
+       width="1.0768887"
+       height="1.0763944">
+      <feGaussianBlur
+         stdDeviation="0.5"
+         result="result1"
+         id="feGaussianBlur56433" />
+      <feBlend
+         in="SourceGraphic"
+         mode="normal"
+         result="result5"
+         in2="result1"
+         id="feBlend56435" />
+      <feGaussianBlur
+         stdDeviation="3"
+         result="result6"
+         in="result5"
+         id="feGaussianBlur56437" />
+      <feComposite
+         operator="xor"
+         in="result6"
+         in2="result6"
+         result="result8"
+         id="feComposite56439" />
+      <feComposite
+         operator="in"
+         result="fbSourceGraphic"
+         in="result6"
+         in2="result8"
+         id="feComposite56441" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0 "
+         id="feColorMatrix56443" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="0.5"
+         id="feGaussianBlur56445" />
+      <feSpecularLighting
+         specularExponent="55"
+         specularConstant="2"
+         surfaceScale="2"
+         lighting-color="#ffffff"
+         result="result1"
+         in="result0"
+         id="feSpecularLighting56449">
+        <fePointLight
+           z="20000"
+           y="-10000"
+           x="-5000"
+           id="fePointLight56447" />
+      </feSpecularLighting>
+      <feComposite
+         operator="arithmetic"
+         result="result2"
+         in="result1"
+         in2="fbSourceGraphicAlpha"
+         k1="1"
+         id="feComposite56451"
+         k2="0"
+         k3="0"
+         k4="0" />
+      <feComposite
+         k3="1"
+         k2="0.5"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result2"
+         id="feComposite56453"
+         k1="0"
+         k4="0" />
+      <feComposite
+         operator="over"
+         in2="result4"
+         result="result91"
+         id="feComposite56455" />
+      <feBlend
+         mode="screen"
+         in2="result91"
+         id="feBlend56457" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#505050;stroke-width:0.801921;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="M 1.6212326,4.0915097 3.7569935,14.498257"
+       id="path68976" />
+    <path
+       id="rect451"
+       style="fill:#f9f9f9;stroke:#87decd;stroke-width:60.4724;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="M 3.0351562 1.0273438 C 3.0023215 1.0273438 2.9765625 1.0531021 2.9765625 1.0859375 L 2.9765625 15.007812 C 2.9765625 15.040648 3.0023215 15.066406 3.0351562 15.066406 L 12.974609 15.066406 C 13.007445 15.066406 13.033203 15.040648 13.033203 15.007812 L 13.033203 1.0859375 C 13.033203 1.0531021 13.007445 1.0273437 12.974609 1.0273438 L 3.0351562 1.0273438 z M 4.0195312 1.9902344 L 7.9238281 1.9902344 C 7.9566636 1.9902344 7.984375 2.0179465 7.984375 2.0507812 L 7.984375 2.9375 C 7.984375 2.9703354 7.9566636 2.9960937 7.9238281 2.9960938 L 4.0195312 2.9960938 C 3.9866965 2.9960938 3.9609375 2.9703354 3.9609375 2.9375 L 3.9609375 2.0507812 C 3.9609375 2.0179465 3.9866965 1.9902344 4.0195312 1.9902344 z M 10.990234 2.0117188 A 0.95345443 0.97440946 0 0 1 11.945312 2.9863281 A 0.95345443 0.97440946 0 0 1 10.990234 3.9609375 A 0.95345443 0.97440946 0 0 1 10.037109 2.9863281 A 0.95345443 0.97440946 0 0 1 10.990234 2.0117188 z M 6.0136719 5.6582031 A 1.990729 1.9802516 0 0 1 8.0039062 7.6386719 A 1.990729 1.9802516 0 0 1 6.0136719 9.6191406 A 1.990729 1.9802516 0 0 1 4.0234375 7.6386719 A 1.990729 1.9802516 0 0 1 6.0136719 5.6582031 z M 10.980469 5.9921875 A 0.984887 0.96393198 0 0 1 11.964844 6.9570312 A 0.984887 0.96393198 0 0 1 10.980469 7.921875 A 0.984887 0.96393198 0 0 1 9.9960938 6.9570312 A 0.984887 0.96393198 0 0 1 10.980469 5.9921875 z M 10.970703 10.015625 A 0.97440946 0.94297689 0 0 1 11.945312 10.958984 A 0.97440946 0.94297689 0 0 1 10.970703 11.902344 A 0.97440946 0.94297689 0 0 1 9.9960938 10.958984 A 0.97440946 0.94297689 0 0 1 10.970703 10.015625 z M 6.0527344 12.027344 L 6.8984375 12.027344 C 6.9312729 12.027344 6.9570312 12.055055 6.9570312 12.087891 L 6.9570312 14.023438 C 6.9570312 14.056269 6.9312729 14.082031 6.8984375 14.082031 L 6.0527344 14.082031 C 6.0198989 14.082031 5.9921875 14.056269 5.9921875 14.023438 L 5.9921875 12.087891 C 5.9921875 12.055055 6.0198989 12.027344 6.0527344 12.027344 z M 8.0859375 12.048828 L 8.9296875 12.048828 C 8.9625229 12.048828 8.9902344 12.07654 8.9902344 12.109375 L 8.9902344 13.917969 C 8.9902344 13.950804 8.9625229 13.976562 8.9296875 13.976562 L 8.0859375 13.976562 C 8.0531021 13.976562 8.0253906 13.950804 8.0253906 13.917969 L 8.0253906 12.109375 C 8.0253906 12.07654 8.0531021 12.048828 8.0859375 12.048828 z M 4.0820312 12.111328 L 4.8867188 12.111328 C 4.9195537 12.111328 4.9453125 12.13904 4.9453125 12.171875 L 4.9453125 13.980469 C 4.9453125 14.013304 4.9195537 14.039062 4.8867188 14.039062 L 4.0820312 14.039062 C 4.0491963 14.039062 4.0234375 14.013304 4.0234375 13.980469 L 4.0234375 12.171875 C 4.0234375 12.13904 4.0491963 12.111328 4.0820312 12.111328 z " />
+  </g>
+</svg>
