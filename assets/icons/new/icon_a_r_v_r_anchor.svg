@@ -2,31 +2,31 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="icon_a_r_v_r.svg"
+   sodipodi:docname="icon_a_r_v_r_anchor.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="885.72802"
-     inkscape:cy="859.17515"
+     inkscape:zoom="16.871996"
+     inkscape:cx="11.350169"
+     inkscape:cy="10.224042"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,15 +35,17 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -51,17 +53,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="m 230.83614,33.119969 76.27629,-1.003635 -1.00362,75.272656 74.26902,1.00364 1.00364,62.22539 -76.2763,-1.00364 2.00728,99.35991 76.27628,-35.12724 38.13816,50.18178 -156.56714,79.28718 -149.54168,-95.34535 44.15996,-46.16723 75.27266,44.15997 -1.00364,-94.34174 -74.26902,-2.00728 v -64.23266 l 73.26538,2.00727 z"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.127145;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 5.9772378,0.11598764 9.9324427,0.08149866 9.8804038,2.6682107 13.731525,2.7026997 13.783566,4.8410479 9.8283606,4.806559 9.9324498,8.2210181 13.887649,7.0138866 15.865257,8.7383614 7.7466727,11.463031 -0.00760599,8.1865291 2.2822478,6.6000124 6.1854105,8.1175506 6.1333687,4.8755381 2.2822478,4.8065587 V 2.5992315 l 3.7990791,0.068979 z"
        id="path7297"
        sodipodi:nodetypes="cccccccccccccccccc" />
     <text
        xml:space="preserve"
-       transform="matrix(0.19828685,0,0,0.71463372,68.363478,-662.09739)"
+       transform="matrix(0.0102819,0,0,0.02455807,-2.4475597,-23.774853)"
        id="text7351"
-       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
+       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
          x="443.8125"
          y="1610.2414"
-         id="tspan7416">X                 R</tspan></text>
+         id="tspan247">X                 R</tspan></text>
   </g>
 </svg>

@@ -2,34 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="icon_audio_stream.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.18641098"
-     inkscape:cx="700.06605"
-     inkscape:cy="1370.6274"
+     inkscape:zoom="23.860606"
+     inkscape:cx="2.0116841"
+     inkscape:cy="3.2480316"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,28 +41,44 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient954">
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1;"
+         offset="0.36538461"
+         id="stop950" />
+      <stop
+         style="stop-color:#ffe680;stop-opacity:1"
+         offset="0.5"
+         id="stop958" />
+      <stop
+         style="stop-color:#b3ff80;stop-opacity:1"
+         offset="0.64102566"
+         id="stop952" />
+    </linearGradient>
     <linearGradient
        id="linearGradient6455"
        inkscape:swatch="solid">
@@ -88,27 +105,40 @@
        width="1156.9467"
        height="440.01907"
        id="rect7353" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient954"
+       id="linearGradient956"
+       x1="7.9943299"
+       y1="1.2269114"
+       x2="8.1185455"
+       y2="15.18297"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:37.3913;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke fill markers"
-       id="path11907"
-       cx="425.80646"
-       cy="427.2258"
-       rx="67.089439"
-       ry="65.670082" />
-    <path
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:35.3121;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke fill markers"
-       d="m 239.87096,475.48386 c 38.29371,-174.6408 101.38722,-224.9848 234.19355,-248.38708 l 1e-5,-63.87096 C 323.64587,179.18507 203.83787,294.526 177.41936,475.48387 Z"
-       id="path11963"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:35.3121;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke fill markers"
-       d="m 129.16129,478.32257 -55.354838,1e-5 c 2.216724,-251.58987 234.513098,-419.815664 400.258058,-440 l 1.41937,53.935485 C 317.84403,148.86352 144.26391,238.90598 129.16129,478.32257 Z"
-       id="path12061"
-       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g303"
+       style="fill-opacity:1;fill:url(#linearGradient956)">
+      <ellipse
+         style="fill:url(#linearGradient956);fill-opacity:1;stroke:#505050;stroke-width:1.1075;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke fill markers"
+         id="path11907"
+         cx="12.537447"
+         cy="12.642077"
+         rx="2.068243"
+         ry="1.8688142" />
+      <path
+         style="fill:url(#linearGradient956);fill-opacity:1;stroke:#505050;stroke-width:1.04591;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke fill markers"
+         d="M 6.8054015,14.015387 C 7.9859261,9.0455252 9.9309815,7.6128549 14.025154,6.9468818 l 10e-7,-1.8176152 C 9.3880268,5.5834286 5.6945683,8.8657567 4.8801347,14.015387 Z"
+         id="path11963"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:url(#linearGradient956);fill-opacity:1;stroke:#505050;stroke-width:1.04591;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke fill markers"
+         d="M 3.3924278,14.09617 H 1.6859405 C 1.7542781,6.9365215 8.9155447,2.1492157 14.025154,1.5748177 L 14.06891,3.109693 C 9.2091654,4.7205496 3.8580118,7.2829433 3.3924262,14.09617 Z"
+         id="path12061"
+         sodipodi:nodetypes="ccccc" />
+    </g>
   </g>
 </svg>

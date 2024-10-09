@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.18641098"
-     inkscape:cx="700.06605"
-     inkscape:cy="1370.6274"
+     inkscape:zoom="47.721211"
+     inkscape:cx="6.3493778"
+     inkscape:cy="8.2458092"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -87,15 +87,15 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:294.041px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#505050;fill-opacity:1;stroke:#909090;stroke-width:204.395;stroke-linejoin:bevel;stroke-opacity:0"
-       x="159.02223"
-       y="361.71393"
+       style="font-weight:bold;font-size:2.53357px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#f9f9f9;fill-opacity:1;stroke:#909090;stroke-width:1.76115;stroke-linejoin:bevel;stroke-opacity:0"
+       x="1.2254605"
+       y="3.1737416"
        id="text4284"
-       transform="scale(0.99340096,1.0066429)"><tspan
+       transform="scale(1.0395511,0.96195366)"><tspan
          sodipodi:role="line"
          id="tspan4282"
-         style="fill:#505050;fill-opacity:1;stroke-width:204.394"
-         x="159.02223"
-         y="361.71393">B</tspan></text>
+         style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.76114"
+         x="1.2254605"
+         y="3.1737416">B</tspan></text>
   </g>
 </svg>

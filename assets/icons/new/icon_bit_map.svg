@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.37282196"
-     inkscape:cx="406.36018"
-     inkscape:cy="856.97742"
+     inkscape:zoom="33.743992"
+     inkscape:cx="7.1420122"
+     inkscape:cy="4.1637042"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -92,7 +92,7 @@
        inkscape:label="Matte Ridge"
        inkscape:menu="Ridges"
        inkscape:menu-tooltip="Soft pastel ridge"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter56459"
        x="-0.038444373"
        y="-0.038197177"
@@ -139,7 +139,7 @@
          specularExponent="55"
          specularConstant="2"
          surfaceScale="2"
-         lighting-color="rgb(255,255,255)"
+         lighting-color="#ffffff"
          result="result1"
          in="result0"
          id="feSpecularLighting56449">
@@ -155,7 +155,10 @@
          in="result1"
          in2="fbSourceGraphicAlpha"
          k1="1"
-         id="feComposite56451" />
+         id="feComposite56451"
+         k2="0"
+         k3="0"
+         k4="0" />
       <feComposite
          k3="1"
          k2="0.5"
@@ -163,10 +166,11 @@
          result="result4"
          in="fbSourceGraphic"
          in2="result2"
-         id="feComposite56453" />
+         id="feComposite56453"
+         k1="0"
+         k4="0" />
       <feComposite
          operator="over"
-         in="result9"
          in2="result4"
          result="result91"
          id="feComposite56455" />
@@ -181,11 +185,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:14.5261;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill;filter:url(#filter56459)"
+       style="fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:14.5261;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill;filter:url(#filter56459)"
        id="rect54835"
        width="438.63507"
        height="441.47372"
-       x="34.747009"
-       y="34.747009" />
+       x="17.005074"
+       y="16.295397"
+       transform="matrix(0.02954075,0,0,0.02955958,1.1410369,1.1232936)" />
   </g>
 </svg>

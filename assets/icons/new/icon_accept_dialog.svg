@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="529.16086"
-     inkscape:cy="862.96843"
+     inkscape:zoom="23.860606"
+     inkscape:cx="14.102743"
+     inkscape:cy="5.7207265"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,15 +35,17 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -52,11 +54,11 @@
      id="layer1">
     <path
        id="rect15120"
-       style="fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 9.0325236 11.040153 L 9.0325236 154.56007 L 496.79965 154.56007 L 496.79965 11.040153 L 9.0325236 11.040153 z M 391.41797 24.087419 L 475.72342 24.087419 L 475.72342 106.38524 L 391.41797 106.38524 L 391.41797 24.087419 z " />
+       style="fill:#b3ff80;fill-opacity:1;stroke:#ffffff;stroke-width:0.0858232;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 1.0006604,1.0422166 V 5.1405569 H 14.868846 V 1.0422166 Z M 11.872637,1.4147935 h 2.39697 v 2.3500878 h -2.39697 z" />
     <path
        id="rect16110"
-       style="fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 10.036597 168.6109 L 10.036597 497.80321 L 499.81032 497.80321 L 499.81032 168.6109 L 10.036597 168.6109 z M 391.41797 193.70187 L 452.63955 219.7964 L 223.81063 461.67208 L 86.312561 373.3524 L 125.45436 320.15979 L 220.79996 373.3524 L 391.41797 193.70187 z " />
+       style="fill:#b3ff80;fill-opacity:1;stroke:#ffffff;stroke-width:0.0858232;stroke-linejoin:bevel;stroke-opacity:0"
+       d="m 1.0292082,5.541791 v 9.400381 H 14.954445 V 5.541791 Z M 11.872637,6.2582859 13.613289,7.0034387 7.1072279,13.910414 3.1978852,11.388368 4.3107639,9.8694052 7.0216284,11.388368 Z" />
   </g>
 </svg>

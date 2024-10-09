@@ -2,34 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="icon_audio_stream_player.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.18641098"
-     inkscape:cx="182.39269"
-     inkscape:cy="1381.3564"
+     inkscape:zoom="23.860605"
+     inkscape:cx="14.312294"
+     inkscape:cy="8.4448823"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +41,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -88,27 +89,67 @@
        width="1156.9467"
        height="440.01907"
        id="rect7353" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient953"
+       id="linearGradient1801"
+       gradientUnits="userSpaceOnUse"
+       x1="245.52437"
+       y1="49.772163"
+       x2="247.92528"
+       y2="495.68954"
+       gradientTransform="matrix(0.00903028,0,0,0.0083347,0.20019861,-0.11163572)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient953">
+      <stop
+         style="stop-color:#ff8080;stop-opacity:1;"
+         offset="0.38247862"
+         id="stop949" />
+      <stop
+         style="stop-color:#ffe680;stop-opacity:1"
+         offset="0.62606835"
+         id="stop957" />
+      <stop
+         style="stop-color:#b3ff80;stop-opacity:1"
+         offset="0.69444448"
+         id="stop951" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient953"
+       id="linearGradient2392"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.00903028,0,0,0.0083347,0.20019861,-0.11163572)"
+       x1="245.52437"
+       y1="49.772163"
+       x2="247.92528"
+       y2="495.68954" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       id="path15918"
-       cx="78.774193"
-       cy="441.41937"
-       rx="63.161289"
-       ry="42.580647" />
     <path
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
-       d="m 93.677419,397.41935 -2.83871,-285.29032 317.935481,-58.193546 5.67742,119.225806 -55.35483,17.03226 -2.8387,-93.677424 -218.58066,49.677424 2.83871,288.12904 z"
-       id="path15974"
-       sodipodi:nodetypes="ccccccccc" />
-    <path
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
-       d="m 283.87098,268.25807 -10e-6,178.83871 157.54837,-97.93549 z"
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.507842;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 9.8775005,8.0341846 -4e-7,5.6444274 5.0288969,-3.090996 z"
        id="path20717"
        sodipodi:nodetypes="cccc" />
+    <g
+       id="g1821"
+       transform="matrix(3.7795276,0,0,3.7795276,-0.09092167,-0.08797011)">
+      <ellipse
+         style="fill:url(#linearGradient2392);fill-opacity:1;stroke:#ff8080;stroke-width:0.138808;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+         id="path15918"
+         cx="0.91155165"
+         cy="3.5674622"
+         rx="0.57036412"
+         ry="0.3548969" />
+      <path
+         style="fill:url(#linearGradient1801);fill-opacity:1;stroke:#ff8080;stroke-width:0.138808;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+         d="M 1.0461319,3.2007353 1.0204976,0.82292611 3.891544,0.33790036 3.9428127,1.3316117 3.4429431,1.4735705 3.4173088,0.69279724 1.4434643,1.1068437 1.4690986,3.5083128 Z"
+         id="path15974"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
   </g>
 </svg>

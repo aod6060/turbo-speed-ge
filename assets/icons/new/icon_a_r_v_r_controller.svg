@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="529.16086"
-     inkscape:cy="862.96843"
+     inkscape:zoom="33.743992"
+     inkscape:cx="11.602065"
+     inkscape:cy="6.2085126"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,15 +35,17 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -52,15 +54,15 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.15708089,0,0,0.71799128,110.61019,-667.27277)"
+       transform="matrix(0.01243994,0,0,0.02697008,-4.4920577,-28.560599)"
        id="text7351"
-       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
+       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
          x="443.8125"
          y="1610.2414"
-         id="tspan309">X                 R</tspan></text>
+         id="tspan247">X                 R</tspan></text>
     <path
        id="rect7547"
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 30.109273 52.189062 L 30.109273 335.21416 L 487.76661 335.21416 L 487.76661 52.189062 L 30.109273 52.189062 z M 118.42895 74.268852 L 196.71254 74.268852 L 196.71254 136.49451 L 263.95598 136.49451 L 263.95598 204.74151 L 196.71254 204.74151 L 196.71254 274.99613 L 118.42895 274.99613 L 118.42895 204.74151 L 54.196175 204.74151 L 54.196175 136.49451 L 118.42895 136.49451 L 118.42895 74.268852 z M 425.03969 87.316117 A 35.629059 40.647236 0 0 1 460.66852 127.96325 A 35.629059 40.647236 0 0 1 425.03969 168.6109 A 35.629059 40.647236 0 0 1 389.41034 127.96325 A 35.629059 40.647236 0 0 1 425.03969 87.316117 z M 344.74898 169.61445 A 34.625423 35.127239 0 0 1 379.37426 204.74151 A 34.625423 35.127239 0 0 1 344.74898 239.86908 A 34.625423 35.127239 0 0 1 310.12319 204.74151 A 34.625423 35.127239 0 0 1 344.74898 169.61445 z " />
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.0979076;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 0.71653948,0.77528399 V 10.205282 H 15.230199 V 0.77528399 Z M 3.5174162,1.5109515 H 6.0000186 V 3.5842227 H 8.1325055 V 5.8581166 H 6.0000186 V 8.1989018 H 3.5174162 V 5.8581166 H 1.4804063 V 3.5842227 H 3.5174162 Z M 13.240944,1.945668 A 1.1299021,1.3543086 0 0 1 14.370838,3.2999732 1.1299021,1.3543086 0 0 1 13.240944,4.6542955 1.1299021,1.3543086 0 0 1 12.111032,3.2999732 1.1299021,1.3543086 0 0 1 13.240944,1.945668 Z M 10.694689,4.6877324 A 1.0980739,1.1703902 0 0 1 11.792759,5.8581166 1.0980739,1.1703902 0 0 1 10.694689,7.028518 1.0980739,1.1703902 0 0 1 9.5966034,5.8581166 1.0980739,1.1703902 0 0 1 10.694689,4.6877324 Z" />
   </g>
 </svg>

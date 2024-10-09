@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="529.16086"
-     inkscape:cy="862.96843"
+     inkscape:zoom="33.743992"
+     inkscape:cx="2.652324"
+     inkscape:cy="10.327764"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,15 +35,17 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -52,26 +54,26 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.15708089,0,0,0.71799128,110.61019,-667.27277)"
+       transform="matrix(0.01241646,0,0,0.02256941,-4.4197136,-22.144783)"
        id="text7351"
-       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
+       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
          x="443.8125"
          y="1610.2414"
-         id="tspan363">X                 R</tspan></text>
+         id="tspan251">X                 R</tspan></text>
     <path
        id="rect9128"
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:2.97322;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 220.78057,30.089887 V 136.63958 h 86.35134 V 30.089887 Z m 0,197.459743 v 101.66195 h 86.35134 V 227.54963 Z" />
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.110768;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 6.2135581,0.33119523 V 3.7323822 H 9.9681694 V 0.33119523 Z m 0,6.30313797 V 9.8794974 H 9.9681694 V 6.6343332 Z" />
     <path
        id="rect9130"
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 96.349158 141.51281 L 96.349158 220.79996 L 219.7964 220.79996 L 219.7964 141.51281 L 96.349158 141.51281 z M 307.11252 141.51281 L 307.11252 220.79996 L 431.56332 220.79996 L 431.56332 141.51281 L 307.11252 141.51281 z " />
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.112213;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 0.80320409,3.8879408 V 6.418876 H 6.1707661 V 3.8879408 Z m 9.16412171,0 V 6.418876 H 15.378523 V 3.8879408 Z" />
     <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.112213;stroke-linejoin:bevel;stroke-opacity:0"
        id="path10902"
-       cx="262.45065"
-       cy="185.17073"
-       rx="27.599974"
-       ry="30.610882" />
+       cx="8.0254011"
+       cy="5.2815499"
+       rx="1.2000638"
+       ry="0.97713393" />
   </g>
 </svg>

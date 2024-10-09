@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="885.72802"
-     inkscape:cy="859.17515"
+     inkscape:zoom="23.860606"
+     inkscape:cx="15.108585"
+     inkscape:cy="6.3493777"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,7 +35,9 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
@@ -45,60 +47,60 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:106.72px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:6.32758;stroke-linejoin:bevel;stroke-opacity:0"
-       x="63.269928"
-       y="264.22861"
+       style="font-size:4.28678px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.254169;stroke-linejoin:bevel;stroke-opacity:0"
+       x="0.19275869"
+       y="8.3842049"
        id="text6175"
-       transform="scale(1.0090507,0.99103049)"><tspan
+       transform="scale(0.94389068,1.0594447)"><tspan
          sodipodi:role="line"
          id="tspan6173"
-         style="fill:#ff0000;fill-opacity:1;stroke-width:6.32759"
-         x="63.269928"
-         y="264.22861">a</tspan></text>
+         style="fill:#ff8080;fill-opacity:1;stroke-width:0.25417"
+         x="0.19275869"
+         y="8.3842049">a</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:105.307px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:6.24376;stroke-linejoin:bevel;stroke-opacity:0"
-       x="387.83374"
-       y="283.17593"
+       style="font-size:4.23001px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.250802;stroke-linejoin:bevel;stroke-opacity:0"
+       x="13.318824"
+       y="9.0576534"
        id="text6229"
-       transform="scale(1.0487143,0.95354854)"><tspan
+       transform="scale(0.98099296,1.0193753)"><tspan
          sodipodi:role="line"
          id="tspan6227"
-         style="fill:#ff0000;fill-opacity:1;stroke-width:6.24378"
-         x="387.83374"
-         y="283.17593">b</tspan></text>
+         style="fill:#ff8080;fill-opacity:1;stroke-width:0.250803"
+         x="13.318824"
+         y="9.0576534">b</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:105.307px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:6.24376;stroke-linejoin:bevel;stroke-opacity:0"
-       x="228.09518"
-       y="437.87097"
+       style="font-size:4.23001px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.250802;stroke-linejoin:bevel;stroke-opacity:0"
+       x="6.9023676"
+       y="15.271514"
        id="text6229-9"
-       transform="scale(1.0487143,0.95354854)"><tspan
+       transform="scale(0.98099296,1.0193753)"><tspan
          sodipodi:role="line"
          id="tspan6227-3"
-         style="fill:#ff0000;fill-opacity:1;stroke-width:6.24378"
-         x="228.09518"
-         y="437.87097">b</tspan></text>
+         style="fill:#ff8080;fill-opacity:1;stroke-width:0.250803"
+         x="6.9023676"
+         y="15.271514">b</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:106.72px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:6.32758;stroke-linejoin:bevel;stroke-opacity:0"
-       x="240.07384"
-       y="118.75794"
+       style="font-size:4.28678px;font-family:Aleo;-inkscape-font-specification:Aleo;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.254169;stroke-linejoin:bevel;stroke-opacity:0"
+       x="7.294704"
+       y="2.5408711"
        id="text6175-8"
-       transform="scale(1.0090507,0.99103049)"><tspan
+       transform="scale(0.94389068,1.0594447)"><tspan
          sodipodi:role="line"
          id="tspan6173-5"
-         style="fill:#ff0000;fill-opacity:1;stroke-width:6.32759"
-         x="240.07384"
-         y="118.75794">a</tspan></text>
+         style="fill:#ff8080;fill-opacity:1;stroke-width:0.25417"
+         x="7.294704"
+         y="2.5408711">a</tspan></text>
     <path
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="m 127.4617,212.77071 274.9961,1.00363 v 38.13815 L 128.46533,243.8834 Z"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.120987;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 2.5724068,6.7746983 12.905266,6.8177934 V 8.4555009 L 2.6101175,8.1107217 Z"
        id="path7173"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="m 244.88704,128.46533 -2.00727,203.738 48.17451,1.00364 -6.02183,-206.74891 z"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.120987;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 6.9846125,3.1545036 6.9091905,11.903307 8.7193264,11.946401 8.4930586,3.0683049 Z"
        id="path7175"
        sodipodi:nodetypes="ccccc" />
   </g>

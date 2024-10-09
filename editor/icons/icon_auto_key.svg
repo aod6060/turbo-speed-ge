@@ -1,1 +1,121 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#e0e0e0"><circle cx="8" cy="5" r="4"/><path d="m11 13c0 1.6569 1.3431 3 3 3h1v-2h-1c-.55228-.00001-.99999-.44772-1-1 .00001-.55228.44772-.99999 1-1h1v-2h-1c-1.6569 0-3 1.3431-3 3z" fill-opacity=".99608"/><path d="m4 10c-1.6569 0-3 1.3431-3 3v3h2v-3c.0000096-.5523.44772-1 1-1h1v-2z" fill-opacity=".99608"/><path d="m8 10c-3 0-3 3-3 3s0 3 3 3h1v-2h-1s-1 0-1-1h3 1s0-3-3-3zm-1 1h2v1h-2z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon_auto_key.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="23.860605"
+     inkscape:cx="10.414656"
+     inkscape:cy="15.401956"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid801"
+       empspacing="9"
+       originx="511.99999"
+       originy="511.99999" />
+    <sodipodi:guide
+       position="0,4.2333374"
+       orientation="0,1935.1181"
+       id="guide66427"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="512.00001,4.2333374"
+       orientation="1935.1181,0"
+       id="guide66429"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="512.00001,-507.76667"
+       orientation="0,-1935.1181"
+       id="guide66431"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-507.76667"
+       orientation="-1935.1181,0"
+       id="guide66433"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6455"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#505050;stop-opacity:1;"
+         offset="0"
+         id="stop6453" />
+    </linearGradient>
+    <rect
+       x="37.932678"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
+       id="rect75351" />
+    <rect
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
+       height="1395.9226"
+       id="rect57141" />
+    <rect
+       x="443.81232"
+       y="1441.4418"
+       width="1156.9467"
+       height="440.01907"
+       id="rect7353" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g249"
+       transform="matrix(0.03326117,0,0,0.02860721,-0.54172005,0.81185256)"
+       style="fill:#f9f9f9;stroke:#f9f9f9">
+      <ellipse
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="path35699"
+         cx="256.90323"
+         cy="138.3871"
+         rx="109.29032"
+         ry="121.35484" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:240.53px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:75.7576;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke markers fill"
+         x="79.544815"
+         y="439.0907"
+         id="text35703"
+         transform="scale(0.97759647,1.022917)"><tspan
+           sodipodi:role="line"
+           id="tspan35701"
+           style="fill:#f9f9f9;stroke:#f9f9f9;stroke-width:75.7576;stroke-opacity:0"
+           x="79.544815"
+           y="439.0907">rec</tspan></text>
+    </g>
+  </g>
+</svg>

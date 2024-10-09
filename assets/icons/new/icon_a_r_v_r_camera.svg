@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="885.72802"
-     inkscape:cy="859.17515"
+     inkscape:zoom="16.871996"
+     inkscape:cx="-6.3122348"
+     inkscape:cy="2.8745858"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,15 +35,17 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -52,43 +54,43 @@
      id="layer1">
     <text
        xml:space="preserve"
-       transform="matrix(0.15708089,0,0,0.71799128,110.61019,-667.27277)"
+       transform="matrix(0.00941947,0,0,0.01999217,-1.7813941,-17.279966)"
        id="text7351"
-       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
+       style="font-size:192px;font-family:Aleo;-inkscape-font-specification:Aleo;white-space:pre;shape-inside:url(#rect7353);display:inline;fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:11.3839;stroke-linejoin:bevel;stroke-opacity:0"><tspan
          x="443.8125"
          y="1610.2414"
-         id="tspan7545">X                 R</tspan></text>
+         id="tspan255">X                 R</tspan></text>
     <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.110504;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect7470"
-       width="252.91614"
-       height="209.7598"
-       x="127.46169"
-       y="148.53804" />
+       width="10.352903"
+       height="6.8973618"
+       x="2.3511217"
+       y="4.5467362" />
     <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.110504;stroke-linejoin:bevel;stroke-opacity:0"
        id="path7524"
-       cx="155.56348"
-       cy="167.60712"
-       rx="82.298111"
-       ry="86.312653" />
+       cx="3.5014429"
+       cy="5.173769"
+       rx="3.3688016"
+       ry="2.8381493" />
     <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.110504;stroke-linejoin:bevel;stroke-opacity:0"
        id="path7526"
-       cx="301.09064"
-       cy="121.9417"
-       rx="100.36354"
-       ry="88.821747" />
+       cx="9.4584703"
+       cy="3.6721904"
+       rx="4.108294"
+       ry="2.9206536" />
     <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.110504;stroke-linejoin:bevel;stroke-opacity:0"
        id="path7528"
-       cx="286.5379"
-       cy="125.45442"
-       rx="14.552714"
-       ry="1.0036354" />
+       cx="8.8627672"
+       cy="3.7876961"
+       rx="0.59570277"
+       ry="0.033001732" />
     <path
-       style="fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:3.01199;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 379.37418,231.83978 453.6432,190.69073 V 336.21786 L 379.37418,306.10881 Z"
+       style="fill:#ff8080;fill-opacity:1;stroke:#ffffff;stroke-width:0.110504;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 12.66294,7.2858801 15.703078,5.9328089 V 10.71806 L 12.66294,9.7280086 Z"
        id="path7530" />
   </g>
 </svg>

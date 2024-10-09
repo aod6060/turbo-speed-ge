@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.37282196"
-     inkscape:cx="320.52833"
-     inkscape:cy="856.97742"
+     inkscape:zoom="33.743992"
+     inkscape:cx="13.795048"
+     inkscape:cy="7.9273371"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -92,10 +92,10 @@
        inkscape:label="Matte Ridge"
        inkscape:menu="Ridges"
        inkscape:menu-tooltip="Soft pastel ridge"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter56459"
-       x="-0.038444373"
-       y="-0.038197177"
+       x="-0.038444374"
+       y="-0.038197178"
        width="1.0768887"
        height="1.0763944">
       <feGaussianBlur
@@ -139,7 +139,7 @@
          specularExponent="55"
          specularConstant="2"
          surfaceScale="2"
-         lighting-color="rgb(255,255,255)"
+         lighting-color="#ffffff"
          result="result1"
          in="result0"
          id="feSpecularLighting56449">
@@ -155,7 +155,10 @@
          in="result1"
          in2="fbSourceGraphicAlpha"
          k1="1"
-         id="feComposite56451" />
+         id="feComposite56451"
+         k2="0"
+         k3="0"
+         k4="0" />
       <feComposite
          k3="1"
          k2="0.5"
@@ -163,10 +166,11 @@
          result="result4"
          in="fbSourceGraphic"
          in2="result2"
-         id="feComposite56453" />
+         id="feComposite56453"
+         k1="0"
+         k4="0" />
       <feComposite
          operator="over"
-         in="result9"
          in2="result4"
          result="result91"
          id="feComposite56455" />
@@ -180,38 +184,43 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       style="fill:#ff0000;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       d="M 53.225808,396.70968 102.90323,446.38711 455.61292,111.41935 408.77421,64.580646 Z"
-       id="path59810"
-       sodipodi:nodetypes="ccccc" />
-    <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       id="path59812"
-       cx="400.96774"
-       cy="71.322586"
-       rx="43.420959"
-       ry="40.937088" />
-    <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       id="path59812-1"
-       cx="444.96774"
-       cy="109.29033"
-       rx="43.420959"
-       ry="40.937088" />
-    <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       id="path59812-12"
-       cx="103.61291"
-       cy="448.51614"
-       rx="43.420959"
-       ry="40.937088" />
-    <ellipse
-       style="fill:#ff0000;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       id="path59812-9"
-       cx="51.806454"
-       cy="405.22583"
-       rx="43.420959"
-       ry="40.937088" />
+    <g
+       id="g267"
+       transform="matrix(0.02793682,0,0,0.02959396,1.2377357,0.42519069)"
+       style="fill:#ff8080">
+      <path
+         style="fill:#ff8080;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         d="M 53.225808,396.70968 102.90323,446.38711 455.61292,111.41935 408.77421,64.580646 Z"
+         id="path59810"
+         sodipodi:nodetypes="ccccc" />
+      <ellipse
+         style="fill:#ff8080;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         id="path59812"
+         cx="400.96774"
+         cy="71.322586"
+         rx="43.420959"
+         ry="40.937088" />
+      <ellipse
+         style="fill:#ff8080;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         id="path59812-1"
+         cx="444.96774"
+         cy="109.29033"
+         rx="43.420959"
+         ry="40.937088" />
+      <ellipse
+         style="fill:#ff8080;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         id="path59812-12"
+         cx="103.61291"
+         cy="448.51614"
+         rx="43.420959"
+         ry="40.937088" />
+      <ellipse
+         style="fill:#ff8080;fill-opacity:1;stroke:#505050;stroke-width:17.1581;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         id="path59812-9"
+         cx="51.806454"
+         cy="405.22583"
+         rx="43.420959"
+         ry="40.937088" />
+    </g>
   </g>
 </svg>

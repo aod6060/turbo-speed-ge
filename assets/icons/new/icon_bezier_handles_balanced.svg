@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.18641098"
-     inkscape:cx="-388.92559"
-     inkscape:cy="1402.8144"
+     inkscape:zoom="47.721211"
+     inkscape:cx="7.7009781"
+     inkscape:cy="7.0723268"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -94,47 +94,48 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       d="M 83.741936,475.48389 C 134.55612,383.23436 186.66157,240.92659 248.3871,221.41936 c 103.85728,29.56208 127.12725,176.6147 187.35484,249.80646 l 39.74193,1.41936 C 414.4223,347.50379 360.54452,239.1534 246.96774,170.32258 177.07752,232.14954 98.020374,350.19242 46.83871,471.22582 Z"
+       style="fill:#80e5ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="M 0.73014753,3.7499137 C 1.1429914,2.9236134 1.5663263,1.64893 2.0678203,1.4741992 2.9116171,1.7389936 3.1006758,3.0561777 3.5899997,3.7117732 l 0.3228865,0.012713 C 3.4167866,2.6035665 2.9790523,1.6330471 2.0562886,1.0165136 1.4884599,1.5703119 0.84615384,2.6276492 0.43032432,3.7117732 Z"
        id="path53509"
        sodipodi:nodetypes="ccccccc" />
-    <circle
-       style="fill:#505050;fill-opacity:1;stroke:#0000ff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+    <ellipse
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0000ff;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
        id="path54317"
-       cx="70.258064"
-       cy="463.41934"
-       r="31.935484" />
-    <circle
-       style="fill:#505050;fill-opacity:1;stroke:#0000ff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       cx="0.62059671"
+       cy="3.6418488"
+       rx="0.25946239"
+       ry="0.28605348" />
+    <ellipse
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0000ff;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
        id="path54317-6"
-       cx="445.67743"
-       cy="459.87097"
-       r="31.935484" />
-    <g
-       id="g54631"
-       transform="translate(-31.225807,18.451613)">
-      <path
-         style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-         d="M 117.80645,264 99.354841,244.12904 369.03227,90.838713 l 18.4516,22.709677 z"
-         id="path54590" />
-      <circle
-         style="fill:#505050;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
-         id="path54317-2-3"
-         cx="112.12904"
-         cy="246.96776"
-         r="31.935484" />
-      <circle
-         style="fill:#505050;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
-         id="path54317-2-7"
-         cx="364.7742"
-         cy="112.12902"
-         r="31.935484" />
-    </g>
-    <circle
-       style="fill:#505050;fill-opacity:1;stroke:#0000ff;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       cx="3.6707213"
+       cy="3.6100652"
+       rx="0.25946239"
+       ry="0.28605348" />
+    <path
+       style="fill:#80e5ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       d="M 0.75321083,2.0208792 0.60329925,1.8428904 2.7943151,0.4698337 2.9442266,0.6732495 Z"
+       id="path54590" />
+    <ellipse
+       style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path54317-2-3"
+       cx="0.7070843"
+       cy="1.8683175"
+       rx="0.25946239"
+       ry="0.28605348" />
+    <ellipse
+       style="fill:#cccccc;fill-opacity:1;stroke:#808080;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path54317-2-7"
+       cx="2.7597201"
+       cy="0.66053587"
+       rx="0.25946239"
+       ry="0.28605348" />
+    <ellipse
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0000ff;stroke-width:0.136492;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
        id="path54317-2"
-       cx="249.80644"
-       cy="173.1613"
-       r="31.935484" />
+       cx="2.0793519"
+       cy="1.0419407"
+       rx="0.25946239"
+       ry="0.28605348" />
   </g>
 </svg>

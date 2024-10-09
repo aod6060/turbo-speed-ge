@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="-510.19452"
-     inkscape:cy="893.31457"
+     inkscape:zoom="47.721211"
+     inkscape:cx="7.1142369"
+     inkscape:cy="7.8057533"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -64,21 +64,21 @@
      id="defs2">
     <rect
        x="37.932678"
-       y="72.072088"
-       width="534.85076"
-       height="318.6345"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
        id="rect75351" />
     <rect
-       x="519.67769"
-       y="326.22103"
-       width="880.03813"
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
        height="1395.9226"
        id="rect57141" />
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -87,7 +87,7 @@
      id="layer1">
     <path
        id="rect348"
-       style="fill:#00ff00;stroke:#909090;stroke-width:35.5505;stroke-linejoin:bevel;stroke-opacity:0"
-       d="m 174.75195,27.217292 v 21.388107 h 23.05494 V 27.217292 Z m 50.11967,0 V 48.605399 H 322.4498 V 27.217292 Z m 122.95002,0 v 21.388107 h 20.39327 V 27.217292 Z M 174.75195,77.123402 V 240.08101 h 21.06991 V 77.123402 Z m 173.39537,0 V 240.08101 h 20.06759 V 77.123402 Z M 174.75195,264.52487 v 179.25369 h 21.06991 V 264.52487 Z m 173.39537,0 v 179.25369 h 20.06759 V 264.52487 Z M 174.75195,472.29604 v 20.3697 h 23.05494 v -20.3697 z m 50.11967,0 v 20.3697 h 97.57818 v -20.3697 z m 122.95002,0 v 20.3697 h 20.39327 v -20.3697 z" />
+       style="fill:#b3ff80;stroke:#909090;stroke-width:0.392835;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 0.48260952,0.49899555 V 0.65115787 H 0.8783046 V 0.49899555 Z m 0.86021068,0 V 0.65115787 H 3.0175677 V 0.49899555 Z m 2.110208,0 v 0.15216232 h 0.350013 V 0.49899555 Z M 0.48260952,0.85404491 V 2.0133816 H 0.84423525 V 0.85404491 Z m 2.97600808,0 V 2.0133816 H 3.8030412 V 0.85404491 Z M 0.48260952,2.1872836 V 3.4625561 H 0.84423525 V 2.1872836 Z m 2.97600808,0 V 3.4625561 H 3.8030412 V 2.1872836 Z M 0.48260952,3.6654394 V 3.8103565 H 0.8783046 V 3.6654394 Z m 0.86021068,0 V 3.8103565 H 3.0175677 V 3.6654394 Z m 2.110208,0 v 0.1449171 h 0.350013 V 3.6654394 Z" />
   </g>
 </svg>

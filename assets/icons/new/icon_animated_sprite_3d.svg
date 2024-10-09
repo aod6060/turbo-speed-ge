@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,35 +15,37 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="586.05988"
-     inkscape:cy="866.7617"
+     inkscape:zoom="33.743992"
+     inkscape:cx="9.9128757"
+     inkscape:cy="7.660623"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -51,46 +53,46 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffbd00;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ffd5d5;fill-opacity:1;stroke:#909090;stroke-width:0.995678;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect22384"
-       width="394.42874"
-       height="389.41055"
-       x="84.305374"
-       y="32.116333" />
+       width="11.301322"
+       height="10.8053"
+       x="3.206871"
+       y="1.563197" />
     <rect
-       style="fill:#ff6b00;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ffaaaa;fill-opacity:1;stroke:#909090;stroke-width:0.995678;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect21498"
-       width="399.4469"
-       height="394.42874"
-       x="44.159958"
-       y="62.225395" />
+       width="11.445104"
+       height="10.944542"
+       x="2.0566092"
+       y="2.3986583" />
     <rect
-       style="fill:#ff0000;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ff8080;fill-opacity:1;stroke:#909090;stroke-width:0.995678;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect20924"
-       width="380.37784"
-       height="391.41782"
-       x="24.087252"
-       y="107.38899" />
+       width="10.898728"
+       height="10.860996"
+       x="1.4814783"
+       y="3.6518507" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:0.995678;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect27186"
-       width="90.327187"
-       height="170.61803"
-       x="52.189041"
-       y="178.64711" />
+       width="2.5880885"
+       height="4.7342806"
+       x="2.2866619"
+       y="5.6291089" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:0.995678;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect27188"
-       width="84.305374"
-       height="168.61075"
-       x="231.83978"
-       y="180.65437" />
+       width="2.415549"
+       height="4.6785831"
+       x="7.4340825"
+       y="5.6848063" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
+       style="fill:#ffffff;fill-opacity:1;stroke:#909090;stroke-width:0.995678;stroke-linejoin:bevel;stroke-opacity:0"
        id="rect27190"
-       width="201.73073"
-       height="92.334465"
-       x="83.301735"
-       y="371.34509" />
+       width="5.7800641"
+       height="2.5620818"
+       x="3.1781142"
+       y="10.97606" />
   </g>
 </svg>

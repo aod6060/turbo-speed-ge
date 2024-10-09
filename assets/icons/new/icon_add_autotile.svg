@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,54 +15,60 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="586.05988"
-     inkscape:cy="866.7617"
+     inkscape:zoom="23.860606"
+     inkscape:cx="12.38443"
+     inkscape:cy="15.527686"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-       id="rect5217"
-       width="54.196312"
-       height="487.76682"
-       x="220.79979"
-       y="11.039989" />
-    <rect
-       style="fill:#0000ff;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-       id="rect5219"
-       width="487.76682"
-       height="57.207218"
-       x="9.0327196"
-       y="220.79979" />
+    <g
+       id="g293"
+       style="fill:#80e5ff">
+      <rect
+         style="fill:#80e5ff;fill-opacity:1;stroke:#909090;stroke-width:0.921794;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect5217"
+         width="1.4009358"
+         height="12.858261"
+         x="7.1185503"
+         y="1.7239299" />
+      <rect
+         style="fill:#80e5ff;fill-opacity:1;stroke:#909090;stroke-width:0.921794;stroke-linejoin:bevel;stroke-opacity:0"
+         id="rect5219"
+         width="12.60842"
+         height="1.5080676"
+         x="1.6445241"
+         y="7.253511" />
+    </g>
   </g>
 </svg>

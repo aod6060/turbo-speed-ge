@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,18 +15,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="229.4927"
-     inkscape:cy="870.55496"
+     inkscape:zoom="33.743992"
+     inkscape:cx="15.217524"
+     inkscape:cy="8.9645587"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
      inkscape:window-x="-8"
@@ -35,15 +35,17 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
-       id="grid801" />
+       id="grid801"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <defs
      id="defs2">
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -52,11 +54,11 @@
      id="layer1">
     <path
        id="rect1032"
-       style="fill:#505050;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 32.116386 30.109273 L 32.116386 463.67971 L 475.72342 463.67971 L 475.72342 30.109273 L 268.92105 30.109273 A 28.054796 26.549343 0 0 1 277.458 49.177877 A 28.054796 26.549343 0 0 1 277.2575 52.189062 L 454.64667 52.189062 L 454.64667 444.61059 L 54.196175 444.61059 L 54.196175 52.189062 L 221.54927 52.189062 A 28.054796 26.549343 0 0 1 221.34876 49.177877 A 28.054796 26.549343 0 0 1 229.90586 30.109273 L 32.116386 30.109273 z " />
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#909090;stroke-width:1.02577;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 1.5113895,2.0192664 V 14.498723 H 14.516761 V 2.0192664 H 8.4538688 a 0.82249158,0.76416966 0 0 1 0.25028,0.5488517 0.82249158,0.76416966 0 0 1 -0.00588,0.086671 H 13.898845 V 13.949857 H 2.1587096 V 2.6547889 h 4.9063448 a 0.82249158,0.76416966 0 0 1 -0.00588,-0.086671 0.82249158,0.76416966 0 0 1 0.2508714,-0.5488517 z" />
     <path
        id="rect1298"
-       style="fill:#505050;fill-opacity:1;stroke:#909090;stroke-width:26.45;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 153.13949 10.623641 L 153.13949 108.80938 L 353.69624 108.80938 L 353.69624 10.623641 L 153.13949 10.623641 z M 249.90516 22.628593 A 28.054796 26.549343 0 0 1 277.95978 49.177877 A 28.054796 26.549343 0 0 1 249.90516 75.727677 A 28.054796 26.549343 0 0 1 221.85054 49.177877 A 28.054796 26.549343 0 0 1 249.90516 22.628593 z " />
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#909090;stroke-width:0.768341;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 5.0594631,1.4584115 V 4.2844916 H 10.93925 V 1.4584115 Z M 7.8963737,1.80395 A 0.82249158,0.76416966 0 0 1 8.7188602,2.5681181 0.82249158,0.76416966 0 0 1 7.8963737,3.3323009 0.82249158,0.76416966 0 0 1 7.073887,2.5681181 0.82249158,0.76416966 0 0 1 7.8963737,1.80395 Z" />
   </g>
 </svg>

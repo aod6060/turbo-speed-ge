@@ -1,1 +1,111 @@
-<svg height="12" viewBox="0 0 16 12" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m0 2v8h2a3 3 0 0 0 3-3 3 3 0 0 0 -3-3v-2zm10 0v2h2v-2zm-3 2a2 2 0 0 0 -1.7324 1 2 2 0 0 0 0 2 2 2 0 0 0 1.7324 1h-2v2h2a2 2 0 0 0 1.7324-1 2 2 0 0 0 0-2 2 2 0 0 0 -1.7324-1h2v-2zm7 0a2 2 0 0 0 -1.7324 1 2 2 0 0 0 0 2 2 2 0 0 0 1.7324 1h-2v-2h-2v4h4a2 2 0 0 0 1.7324-1 2 2 0 0 0 0-2 2 2 0 0 0 -1.7324-1h2v-2zm-12 2a1 1 0 0 1 1 1 1 1 0 0 1 -1 1z" fill="#e3ec69"/><path d="m10 2v2h2v-2zm0 4v4h2v-4z" fill="#fff" fill-opacity=".39216"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="icon_basis.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="28.528375"
+     inkscape:cx="17.719201"
+     inkscape:cy="12.98707"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid801"
+       empspacing="9"
+       originx="511.99999"
+       originy="511.99999" />
+    <sodipodi:guide
+       position="0,4.2333374"
+       orientation="0,1935.1181"
+       id="guide66427"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="512.00001,4.2333374"
+       orientation="1935.1181,0"
+       id="guide66429"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="512.00001,-507.76667"
+       orientation="0,-1935.1181"
+       id="guide66431"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,-507.76667"
+       orientation="-1935.1181,0"
+       id="guide66433"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6455"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#505050;stop-opacity:1;"
+         offset="0"
+         id="stop6453" />
+    </linearGradient>
+    <rect
+       x="37.932678"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
+       id="rect75351" />
+    <rect
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
+       height="1395.9226"
+       id="rect57141" />
+    <rect
+       x="443.81232"
+       y="1441.4418"
+       width="1156.9467"
+       height="440.01907"
+       id="rect7353" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.83137px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#ffe680;fill-opacity:1;stroke:#505050;stroke-width:2.46657;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       x="2.5087132"
+       y="9.5928984"
+       id="text51919"
+       inkscape:transform-center-y="-1.051546"
+       transform="scale(0.83233487,1.2014395)"
+       inkscape:transform-center-x="1.048088e-06"><tspan
+         sodipodi:role="line"
+         id="tspan51917"
+         style="stroke:#505050;stroke-width:2.46657;stroke-opacity:0;fill:#ffe680"
+         x="2.5087132"
+         y="9.5928984">bsis</tspan></text>
+  </g>
+</svg>

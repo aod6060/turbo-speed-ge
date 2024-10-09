@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.18641098"
-     inkscape:cx="-321.86945"
-     inkscape:cy="1402.8144"
+     inkscape:zoom="28.528375"
+     inkscape:cx="17.719201"
+     inkscape:cy="12.98707"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -95,17 +95,17 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:220.014px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#ffff00;fill-opacity:1;stroke:#505050;stroke-width:69.2957;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       x="69.598572"
-       y="318.53787"
+       style="font-weight:bold;font-size:7.83137px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#ffe680;fill-opacity:1;stroke:#505050;stroke-width:2.46657;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+       x="2.5087132"
+       y="9.5928984"
        id="text51919"
-       inkscape:transform-center-y="-26.232992"
-       transform="scale(0.9373317,1.0668582)"
-       inkscape:transform-center-x="-0.00034979325"><tspan
+       inkscape:transform-center-y="-1.051546"
+       transform="scale(0.83233487,1.2014395)"
+       inkscape:transform-center-x="1.048088e-06"><tspan
          sodipodi:role="line"
          id="tspan51917"
-         style="stroke:#505050;stroke-width:69.2957;stroke-opacity:0"
-         x="69.598572"
-         y="318.53787">bsis</tspan></text>
+         style="stroke:#505050;stroke-width:2.46657;stroke-opacity:0;fill:#ffe680"
+         x="2.5087132"
+         y="9.5928984">bsis</tspan></text>
   </g>
 </svg>

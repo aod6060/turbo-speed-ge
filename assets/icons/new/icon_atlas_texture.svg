@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333333"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.18641098"
-     inkscape:cx="767.12218"
-     inkscape:cy="1370.6274"
+     inkscape:zoom="33.743992"
+     inkscape:cx="9.7350664"
+     inkscape:cy="6.6826712"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -64,21 +64,21 @@
      id="defs2">
     <rect
        x="37.932678"
-       y="72.072088"
-       width="534.85076"
-       height="318.6345"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
        id="rect75351" />
     <rect
-       x="519.67769"
-       y="326.22103"
-       width="880.03813"
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
        height="1395.9226"
        id="rect57141" />
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -87,7 +87,7 @@
      id="layer1">
     <path
        id="path1242"
-       style="fill:#505050;fill-opacity:1;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-       d="M 185.93542 36.903174 L 36.903174 90.8389 L 35.483622 475.48364 L 187.35497 437.16143 L 319.35467 474.0646 L 471.22602 452.77443 L 471.22602 36.903174 L 322.19377 92.257935 L 185.93542 36.903174 z M 204.38701 90.8389 L 307.9998 130.58066 L 303.74218 434.32233 L 207.22559 398.8387 L 204.38701 90.8389 z " />
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#909090;stroke-width:0.277775;stroke-linejoin:bevel;stroke-opacity:0"
+       d="M 1.6073908,0.4395356 0.42504641,0.86021208 0.41378597,3.8602819 1.6186545,3.5613844 2.6658713,3.8492141 3.8707398,3.6831594 V 0.4395356 L 2.6883952,0.87127983 Z M 1.7537763,0.86021208 2.5757862,1.1701813 2.5420087,3.539241 1.7762963,3.2624832 Z" />
   </g>
 </svg>

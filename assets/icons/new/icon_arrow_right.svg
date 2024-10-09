@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.26362494"
-     inkscape:cx="-151.73071"
-     inkscape:cy="885.72803"
+     inkscape:zoom="47.721211"
+     inkscape:cx="8.4344045"
+     inkscape:cy="7.0304167"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -64,21 +64,21 @@
      id="defs2">
     <rect
        x="37.932678"
-       y="72.072088"
-       width="534.85076"
-       height="318.6345"
+       y="72.07209"
+       width="534.85077"
+       height="318.63449"
        id="rect75351" />
     <rect
-       x="519.67769"
-       y="326.22103"
-       width="880.03813"
+       x="519.67767"
+       y="326.22104"
+       width="880.03815"
        height="1395.9226"
        id="rect57141" />
     <rect
-       x="443.81233"
+       x="443.81232"
        y="1441.4418"
        width="1156.9467"
-       height="440.01906"
+       height="440.01907"
        id="rect7353" />
   </defs>
   <g
@@ -86,8 +86,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:#909090;stroke-width:35.3121;stroke-linejoin:bevel;stroke-opacity:0"
-       d="m 16.794382,229.83252 c 1.00364,56.20357 1.00364,55.19996 1.00364,55.19996 l 382.385098,3.0109 -66.23994,132.47986 54.1963,9.03272 L 497.53575,260.94521 386.13222,85.309013 330.93227,105.38172 397.1722,229.83252 Z"
+       style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:#909090;stroke-width:0.9563;stroke-linejoin:bevel;stroke-opacity:0"
+       d="m 1.5444297,7.3996922 c 0.02764,1.4969272 0.02764,1.4701971 0.02764,1.4701971 l 10.5295243,0.080193 -1.824013,3.5284707 1.492374,0.240577 3.012385,-4.4907814 -3.067657,-4.6778983 -1.52001,0.5346168 1.824011,3.3146253 z"
        id="path80162"
        sodipodi:nodetypes="cccccccccc" />
   </g>

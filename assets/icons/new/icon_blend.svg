@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="512mm"
-   height="512mm"
-   viewBox="0 0 512 512"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -15,21 +15,21 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview7"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
+     inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="0.37282196"
-     inkscape:cx="320.52833"
-     inkscape:cy="856.97742"
+     inkscape:zoom="33.743992"
+     inkscape:cx="12.935636"
+     inkscape:cy="8.0458768"
      inkscape:window-width="1920"
-     inkscape:window-height="1058"
-     inkscape:window-x="1912"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
@@ -40,22 +40,22 @@
        originx="511.99999"
        originy="511.99999" />
     <sodipodi:guide
-       position="0,511.99999"
+       position="0,4.2333374"
        orientation="0,1935.1181"
        id="guide66427"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,511.99999"
+       position="512.00001,4.2333374"
        orientation="1935.1181,0"
        id="guide66429"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="511.99999,0"
+       position="512.00001,-507.76667"
        orientation="0,-1935.1181"
        id="guide66431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0,0"
+       position="0,-507.76667"
        orientation="-1935.1181,0"
        id="guide66433"
        inkscape:locked="false" />
@@ -92,10 +92,10 @@
        inkscape:label="Matte Ridge"
        inkscape:menu="Ridges"
        inkscape:menu-tooltip="Soft pastel ridge"
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        id="filter56459"
-       x="-0.038444373"
-       y="-0.038197177"
+       x="-0.038444374"
+       y="-0.038197178"
        width="1.0768887"
        height="1.0763944">
       <feGaussianBlur
@@ -139,7 +139,7 @@
          specularExponent="55"
          specularConstant="2"
          surfaceScale="2"
-         lighting-color="rgb(255,255,255)"
+         lighting-color="#ffffff"
          result="result1"
          in="result0"
          id="feSpecularLighting56449">
@@ -155,7 +155,10 @@
          in="result1"
          in2="fbSourceGraphicAlpha"
          k1="1"
-         id="feComposite56451" />
+         id="feComposite56451"
+         k2="0"
+         k3="0"
+         k4="0" />
       <feComposite
          k3="1"
          k2="0.5"
@@ -163,10 +166,11 @@
          result="result4"
          in="fbSourceGraphic"
          in2="result2"
-         id="feComposite56453" />
+         id="feComposite56453"
+         k1="0"
+         k4="0" />
       <feComposite
          operator="over"
-         in="result9"
          in2="result4"
          result="result91"
          id="feComposite56455" />
@@ -181,30 +185,35 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g59545"
-       transform="rotate(45,255.12903,255.48387)">
-      <rect
-         style="fill:#555555;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-         id="rect59539"
-         width="479.03226"
-         height="37.612904"
-         x="15.612904"
-         y="217.87097" />
-      <rect
-         style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:16.0292;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-         id="rect59541"
-         width="38.29335"
-         height="476.87399"
-         x="235.62753"
-         y="17.046873" />
+       id="g498"
+       transform="matrix(0.9745726,0,0,0.3615088,-0.16249509,5.1344804)">
+      <g
+         id="g59545"
+         transform="matrix(0.02507616,0.06788824,-0.02507616,0.06788824,7.9458849,-25.592117)"
+         style="fill:#f9f9f9">
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           id="rect59539"
+           width="479.03226"
+           height="37.612904"
+           x="15.612904"
+           y="217.87097" />
+        <rect
+           style="fill:#f9f9f9;fill-opacity:1;stroke:#505050;stroke-width:16.0292;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+           id="rect59541"
+           width="38.29335"
+           height="476.87399"
+           x="235.62753"
+           y="17.046873" />
+      </g>
+      <path
+         id="rect59547"
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#505050;stroke-width:0.933603;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         d="m 11.397487,-10.754777 v 2.8523947 l 1.761719,-0.058891 -1.761719,4.887252 v 2.6076004 h 1.031866 l 1.736539,-5.6551741 -0.02516,5.6551741 h 1.031865 V -10.754777 Z" />
+      <path
+         id="rect59547-1"
+         style="fill:#f9f9f9;fill-opacity:1;stroke:#505050;stroke-width:0.933603;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
+         d="m 15.235503,15.885992 h -1.0536 l 0.02175,4.76947 -1.805224,-4.76947 h -0.96318 v 2.793553 l 2.088875,4.7013 -2.088875,-0.06813 v 2.793553 h 3.800252 z" />
     </g>
-    <path
-       id="rect59547"
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       d="m 352.70949,48.967997 v 29.709815 l 49.67759,-0.613399 -49.67759,50.904377 v 27.1601 h 29.09693 l 48.96756,-58.902856 -0.70952,58.902856 h 29.09693 V 48.967997 Z" />
-    <path
-       id="rect59547-1"
-       style="fill:#505050;fill-opacity:1;stroke:#505050;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;paint-order:stroke markers fill"
-       d="m 460.9353,326.45148 h -29.70983 l 0.6134,49.67759 -50.90437,-49.67759 h -27.1601 v 29.09694 l 58.90286,48.96755 -58.90286,-0.70953 v 29.09694 h 107.1609 z" />
   </g>
 </svg>
