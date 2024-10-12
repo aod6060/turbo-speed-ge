@@ -422,6 +422,10 @@ Copyright: Meta Platforms, Inc. and affiliates.
 License: BSD-3-clause
 
 
+Files: ./thirdparty/sdl2/
+Comment: SDL2
+Copyright: 1997-2024 Sam Lantinga <slouken@libsdl.org>
+License: Expat
 
 License: Apache-2.0
  Licensed under the Apache License, Version 2.0 (the "License");

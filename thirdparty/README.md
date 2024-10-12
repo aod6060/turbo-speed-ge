@@ -52,7 +52,8 @@ Files extracted from upstream source:
 ## embree
 
 - Upstream: https://github.com/embree/embree
-- Version: 3.13.5 (698442324ccddd11725fb8875275dc1384f7fb40, 2022)
+//- Version: 3.13.5 (698442324ccddd11725fb8875275dc1384f7fb40, 2022)
+Version: 4.3.3 
 - License: Apache 2.0
 
 Files extracted from upstream:
@@ -519,6 +520,16 @@ Important: Some files have Godot-made changes; so to enrich the features
 originally proposed by this library and better integrate this library with
 Godot. See the patch in the `patches` folder for details.
 
+
+## sdl2
+- Upstream: https://github.com/libsdl-org/SDL
+- Version: 2.30.8
+- License: MIT
+
+Files extraced from upstream source
+
+- All .c and .h files in the 'src/' folder.
+- All .h files in 'include/'
 
 ## squish
 

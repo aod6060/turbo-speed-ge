@@ -1,0 +1,7 @@
+scons: Reading SConscript files ...
+Automatically detected platform: windows
+Auto-detected 6 CPU cores available for build parallelism. Using 5 cores by default. You can override it with the -j argument.
+Configuring for Windows: target=debug, bits=default
+Found MSVC version 14.1, arch amd64, bits=64
+Note: Building a debug binary (which will run slowly). Use `target=release_debug` to build an optimized release binary.
+scons: Build interrupted.
